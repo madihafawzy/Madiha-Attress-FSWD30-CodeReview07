@@ -1,0 +1,93 @@
+html{
+  width: 97%;
+ }
+body{
+  background: url('../img/computer.jpg') no-repeat
+ }
+header{
+ background-color:#8600b3;
+ text-align: center;
+ margin: -8px -8px 0px -8px;
+ padding: 30px 60px;
+ height: 10%;
+ }
+
+.wellcom{
+  color: black;
+  background-color:#ffb3ff;
+  text-align: center;
+  margin: 0px -9px -10px -8px;
+  padding: 275px;
+  font-size: 30px;
+  opacity: 0.4;
+        
+       }
+
+.bilder{  
+  width: 100%;  
+  height: 550px;
+  background-color:#FFFFFF ;
+  margin: 0px 0px 0px -8px;
+  padding: 23px 0px 50px 30px;
+}
+
+.pers {
+  width: 370px;
+  height: 300px;
+  background-color: #d6c0d8;
+  margin: 5px 5px 5px 5px;
+  float:left;
+
+ }
+
+ .pictuer img {
+     width: 160px;
+     height: 220px;
+     margin-left: 20px;
+     margin-top: 20px;
+     margin-right: 20px;
+     border-radius: 10px;
+ }
+
+
+ .text{
+  margin-top:-210px ;
+  margin-left:190px ;
+ }
+
+
+.like{
+  white-space: nowrap;  
+  font-size: 40px; 
+  color: red; 
+  width: 160px;
+  margin-left: 5px; 
+  margin-right: 5px;
+}
+
+ button{
+     font-size: 20px;
+     border-radius: 12px;
+     background-color: #bb99ff;
+     margin-top: 10px;
+ }
+
+hr{
+  height: 2px;
+  background-color: black;
+  width: 85%;
+}
+
+footer{
+  text-align: center;
+  padding-top: 35px;
+  height: 50px;
+  margin-bottom:60px;
+}
+
+
+
+.form-control{
+  margin-top: 10px;
+}
+
